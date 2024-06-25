@@ -1,5 +1,5 @@
 import React from "react";
-import { Map, GoogleApiWrapper, Marker } from "google-maps-react";
+import { Map, GoogleApiWrapper, Marker } from '@peacechen/google-maps-react';
 
 const Current_user_map = (props) => {
   return (
